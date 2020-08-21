@@ -227,7 +227,8 @@ else
       {
         "trailingComma": "es5",
         "singleQuote": true,
-        "printWidth": 80
+        "printWidth": 80,
+        "tabWidth": 2,
       }
     ],
     "jsx-a11y/href-no-hash": "off",
